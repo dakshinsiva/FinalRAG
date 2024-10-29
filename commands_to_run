@@ -1,0 +1,9 @@
+mkdir -p final_RAG/src
+mkdir -p final_RAG/tests
+mkdir -p final_RAG/scripts
+mkdir -p final_RAG/data
+mkdir -p final_RAG/docs
+mkdir -p final_RAG/logs
+touch final_RAG/data/.gitkeep
+touch final_RAG/logs/.gitkeep
+touch final_RAG/docs/.gitkeep 
